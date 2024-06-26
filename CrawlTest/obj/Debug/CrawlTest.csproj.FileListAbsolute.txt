@@ -1,0 +1,15 @@
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\CrawlTest.dll
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\CrawlTest.pdb
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\obj\Debug\CrawlTest.csproj.AssemblyReference.cache
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\obj\Debug\CrawlTest.csproj.CoreCompileInputs.cache
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\obj\Debug\CrawlTest.csproj.Up2Date
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\obj\Debug\CrawlTest.dll
+C:\Users\NghĩaPhạm\source\repos\Crawl\CrawlTest\obj\Debug\CrawlTest.pdb
